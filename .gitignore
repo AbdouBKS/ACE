@@ -83,3 +83,10 @@ Build/*/**
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+!Plugins/DirGravity/**/
+!Plugins/DirGravity/Binaries/**
+!Plugins/DirGravity/Intermediate/**
+!Plugins/DirGravity/Content/**
+!Plugins/DirGravity/Source/**
+!Plugins/DirGravity/Resources/**
